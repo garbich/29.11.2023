@@ -1,0 +1,15 @@
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\bin\Debug\net6.0\29.11.2023.exe
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\bin\Debug\net6.0\29.11.2023.deps.json
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\bin\Debug\net6.0\29.11.2023.runtimeconfig.json
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\bin\Debug\net6.0\29.11.2023.dll
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\bin\Debug\net6.0\29.11.2023.pdb
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.csproj.AssemblyReference.cache
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.AssemblyInfoInputs.cache
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.AssemblyInfo.cs
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.csproj.CoreCompileInputs.cache
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.dll
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\refint\29.11.2023.dll
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.pdb
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\29.11.2023.genruntimeconfig.cache
+C:\Visual\Lesson #3\29.11.2023\29.11.2023\obj\Debug\net6.0\ref\29.11.2023.dll
