@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Myspace{
     class Program
@@ -36,6 +36,9 @@ namespace Myspace{
 
             array.Show($"Min: {array.Min()}");
             array.Show($"Max: {array.Max()}");
+            Console.WriteLine();
+
+            array.Show($"Avarage num: { array.Avg()}");
             Console.WriteLine();
 
             if (array.Search(4) == true)
